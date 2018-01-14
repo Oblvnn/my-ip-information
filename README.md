@@ -1,4 +1,9 @@
 # my-ip-information
+[![GitHub License](https://img.shields.io/github/license/OblivionSan/discord-bot-example.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/discord-bot-example.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/discord-bot-example.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/network)
+[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/discord-bot-example.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/issues)
+
 > A simple my-ip-information page, nice and easy to read.
 
 ## Getting started
