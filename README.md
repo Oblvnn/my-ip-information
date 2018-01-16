@@ -1,8 +1,8 @@
 # my-ip-information
-[![GitHub License](https://img.shields.io/github/license/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/network)
-[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/issues)
+[![GitHub License](https://img.shields.io/github/license/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/my-ip-information/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/my-ip-information/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/my-ip-information/network)
+[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/my-ip-information.svg?style=flat-square)](https://github.com/OblivionSan/my-ip-information/issues)
 
 > A simple my-ip-information page, nice and easy to read.
 
